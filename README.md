@@ -9,7 +9,7 @@ Future:
 	6-Issues
 	SMT2
 
-Finish:
+Completed:
 
 	RV32I 80%
 
@@ -25,4 +25,6 @@ Run:
 	vvp -n CPU.out
 	gtkwave CPU.vcd
 
-Last Update: 2019/04/30
+Last Update:
+
+	2019/04/30 12:13
