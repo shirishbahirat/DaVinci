@@ -164,4 +164,14 @@ module R_type_decode(
 
 	assign alu_op=alu_op_temp;
 
+module I_type_decode(
+	input[31:0] instr,
+	output[9:0] alu_op,
+	output[4:0] rs1,
+	output[4:0] rd
+);
+	always @(*) begin
+		
+	end
+
 endmodule
